@@ -1,0 +1,11 @@
+Apple1q
+- Milano1q
+Fiat1q
+- Milano1q
+Tesla1q
+- London1q
+London1q
+- Tesla1q
+Milano1q
+- Apple1q
+- Fiat1q

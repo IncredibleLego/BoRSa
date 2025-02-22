@@ -1,0 +1,16 @@
+Apple2p 1000 10
+Tesla2p 200 50
+Microsoft2p 50 200
+--
+b Apple2p 105
+b Apple2p 409
+s Apple2p 20
+b Tesla2p 297
+b Microsoft2p 298
+b Microsoft2p 299
+s Microsoft2p 1
+b Microsoft2p 1409
+s Apple2p 10
+b Tesla2p 1000
+s Tesla2p 20
+b Apple2p 280

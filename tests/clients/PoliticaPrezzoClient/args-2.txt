@@ -1,0 +1,4 @@
+Borsa2p
+-5
+OperatoreR2
+5000

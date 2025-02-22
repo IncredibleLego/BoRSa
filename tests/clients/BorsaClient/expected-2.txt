@@ -1,0 +1,14 @@
+London2b
+- Microsoft2b 42
+= Buffet2b 1
+= Livermore2b 7
+- Tesla2b 195
+= Soros2b 5
+Milano2b
+- Apple2b 670
+= Buffet2b 280
+= Livermore2b 40
+= Soros2b 10
+Paris2b
+- Apple2b 959
+= Lynch2b 41

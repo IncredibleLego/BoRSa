@@ -1,0 +1,16 @@
+Apple2pt 10000 9
+Tesla2pt 10000 11
+Microsoft2pt 10000 13
+--
+b Apple2pt 200
+b Apple2pt 200
+s Apple2pt 1
+b Tesla2pt 200
+b Microsoft2pt 200
+b Microsoft2pt 200
+s Microsoft2pt 1
+b Microsoft2pt 200
+s Apple2pt 1
+b Tesla2pt 200
+s Tesla2pt 1
+b Apple2pt 200

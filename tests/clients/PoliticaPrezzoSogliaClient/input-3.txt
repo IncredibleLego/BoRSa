@@ -1,0 +1,9 @@
+Apple3pt 100 8
+--
+b Apple3pt 16
+b Apple3pt 100
+b Apple3pt 16
+s Apple3pt 1
+s Apple3pt 6
+s Apple3pt 1
+s Apple3pt 6

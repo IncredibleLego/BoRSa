@@ -1,0 +1,16 @@
+London1b
+- Microsoft1b 41
+= Buffet1b 1
+= Livermore1b 7
+= Lynch1b 1
+- Tesla1b 175
+= Lynch1b 20
+= Soros1b 5
+Milano1b
+- Apple1b 910
+= Buffet1b 30
+= Livermore1b 40
+= Soros1b 20
+Paris1b
+- Apple1b 959
+= Lynch1b 41

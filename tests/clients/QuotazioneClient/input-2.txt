@@ -1,0 +1,3 @@
+Apple2q Milano2q 100 10
+Fiat2q Milano2q 20 200
+Apple2q London2q 200 50

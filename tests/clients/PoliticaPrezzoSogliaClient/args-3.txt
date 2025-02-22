@@ -1,0 +1,4 @@
+Borsa3pt
+5
+OperatoreS3
+10000

@@ -1,0 +1,7 @@
+Apple1p 100 10
+Tesla1p 200 50
+Microsoft1p 50 200
+--
+b Apple1p 100
+b Tesla1p 200
+b Microsoft1p 200

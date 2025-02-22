@@ -1,0 +1,4 @@
+Apple1oa
+Broadcom1oa
+Microsoft1oa
+Tesla1oa

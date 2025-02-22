@@ -1,0 +1,29 @@
+Apple2o Milano2o 1000 10
+Apple2o Paris2o 1000 5
+Tesla2o London2o 200 50
+Microsoft2o London2o 50 200
+--
+Soros2o 1000
+Lynch2o 4000
+Buffet2o 3000
+Livermore2o 2000
+--
+Soros2o b Milano2o Apple2o 105
+Soros2o b Milano2o Apple2o 106
+Soros2o w 500
+Lynch2o b Paris2o Apple2o 207
+Buffet2o b Milano2o Apple2o 308
+Livermore2o b Milano2o Apple2o 409
+Soros2o s Milano2o Apple2o 10
+Soros2o b London2o Tesla2o 297
+Lynch2o b London2o Microsoft2o 298
+Buffet2o b London2o Microsoft2o 299
+Buffet2o d 1000
+Lynch2o s London2o Microsoft2o 1
+Livermore2o b London2o Microsoft2o 1409
+Buffet2o s Milano2o Apple2o 30
+Lynch2o b London2o Tesla2o 1000
+Lynch2o w 2500
+Lynch2o s London2o Tesla2o 20
+Buffet2o b Milano2o Apple2o 2800
+Buffet2o w 500

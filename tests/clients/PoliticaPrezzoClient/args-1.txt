@@ -1,0 +1,4 @@
+Borsa1p
+10
+OperatoreR1
+10000

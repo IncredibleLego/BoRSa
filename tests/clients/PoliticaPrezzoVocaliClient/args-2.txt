@@ -1,0 +1,4 @@
+Borsa2pv
+t
+OperatoreV2
+10000

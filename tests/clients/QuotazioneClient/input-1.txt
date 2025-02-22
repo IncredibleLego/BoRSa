@@ -1,0 +1,3 @@
+Apple1q Milano1q 100 10
+Fiat1q Milano1q 20 200
+Tesla1q London1q 200 50

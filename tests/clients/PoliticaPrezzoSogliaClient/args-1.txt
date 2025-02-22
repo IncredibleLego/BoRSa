@@ -1,0 +1,4 @@
+Borsa1pt
+2
+OperatoreS1
+10000

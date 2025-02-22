@@ -1,0 +1,20 @@
+Apple1b Milano1b 1000 10
+Apple1b Paris1b 1000 5
+Tesla1b London1b 200 50
+Microsoft1b London1b 50 200
+--
+Soros1b 1000
+Lynch1b 4000
+Buffet1b 3000
+Livermore1b 2000
+--
+Soros1b b Milano1b Apple1b 105
+Soros1b b Milano1b Apple1b 106
+Lynch1b b Paris1b Apple1b 207
+Buffet1b b Milano1b Apple1b 308
+Livermore1b b Milano1b Apple1b 409
+Soros1b b London1b Tesla1b 297
+Lynch1b b London1b Microsoft1b 298
+Buffet1b b London1b Microsoft1b 299
+Livermore1b b London1b Microsoft1b 1409
+Lynch1b b London1b Tesla1b 1000

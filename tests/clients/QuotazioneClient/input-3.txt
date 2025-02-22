@@ -1,0 +1,4 @@
+Apple3q Milano3q 100 10
+Apple3q Paris3q 1000 1
+Tesla3q London3q 200 50
+Microsoft3q London3q 50 200

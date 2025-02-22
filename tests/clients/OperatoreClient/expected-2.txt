@@ -1,0 +1,11 @@
+Buffet2o, 500, 3000
+- London2o, Microsoft2o, 1
+- Milano2o, Apple2o, 280
+Livermore2o, 200, 1800
+- London2o, Microsoft2o, 7
+- Milano2o, Apple2o, 40
+Lynch2o, 1295, 205
+- Paris2o, Apple2o, 41
+Soros2o, 150, 350
+- London2o, Tesla2o, 5
+- Milano2o, Apple2o, 10

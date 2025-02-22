@@ -1,0 +1,11 @@
+Buffet1o, 0, 3000
+- London1o, Microsoft1o, 1
+- Milano1o, Apple1o, 280
+Livermore1o, 200, 1800
+- London1o, Microsoft1o, 7
+- Milano1o, Apple1o, 40
+Lynch1o, 3795, 205
+- Paris1o, Apple1o, 41
+Soros1o, 650, 350
+- London1o, Tesla1o, 5
+- Milano1o, Apple1o, 10

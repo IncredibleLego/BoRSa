@@ -1,0 +1,14 @@
+Apple3q
+- Milano3q
+- Paris3q
+Microsoft3q
+- London3q
+Tesla3q
+- London3q
+London3q
+- Microsoft3q
+- Tesla3q
+Milano3q
+- Apple3q
+Paris3q
+- Apple3q

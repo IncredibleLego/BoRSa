@@ -1,0 +1,7 @@
+Apple1pv 100 1
+Tesla1pv 200 2
+Microsoft1pv 50 3
+--
+b Apple1pv 10
+b Tesla1pv 20
+b Microsoft1pv 20
