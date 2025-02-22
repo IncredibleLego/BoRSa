@@ -1,5 +1,7 @@
 # Bo{r,s}a 👜
 
+[![Workflow results](https://github.com/IncredibleLego/BoRSa/actions/workflows/gradle.yml/badge.svg)](https://github.com/IncredibleLego/BoRSa/actions/workflows/gradle.yml)
+
 La seguente repository contiene il progetto sviluppato nell'ambito del corso di Programmazione II del professore Massimo Santini nell'anno accademico 24/25
 
 Il progetto realizzato in Java gestisce una borsa e le sue operazioni
@@ -27,7 +29,7 @@ Gestisce le operazioni di allocazione, vendita e acquisto, cambio valore e polit
 Il progetto è gestito nel seguente modo:
 
 - All'interno della cartella `src/main` sono presenti due cartelle:
-    - `borsanova` contiene i file java del progetto in se
+    - `borsanova` contiene i file java del progetto effettivi `Azienda.java` `Operatore.java` e `Borsa.java`
     - `clients` contiene i client implementati per testare le funzionalità del progetto
 - Nella cartella `tests/clients` sono contenuti i test che utilizzano i clients per testare il progetto, dove:
     - `args` sono argomenti di riga di comando
