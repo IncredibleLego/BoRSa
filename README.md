@@ -6,7 +6,7 @@ Il progetto realizzato in Java gestisce una borsa e le sue operazioni
 
 ![Schema Progetto](./assets/schemaFinaleProgetto.png)
 
-Nel file [ISTRUZIONI.html](ISTRUZIONI.html) sono presenti le regole del progetto e in [README.html](README.html) sono presenti le specifiche del progetto
+Nel file `ISTRUZIONI.html` sono presenti le regole del progetto e in `README.html` sono presenti le specifiche del progetto
 
 Le entità presenti nel progetto sono le seguenti:
 
